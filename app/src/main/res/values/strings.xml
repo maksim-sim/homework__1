@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Education_lessol</string>
+    <string name="button_name">Нажми на меня</string>
+    <string name="num">Вы нажали:</string>
+</resources>
